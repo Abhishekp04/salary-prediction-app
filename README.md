@@ -6,7 +6,7 @@ This project predicts employee salaries based on professional attributes such as
 
 The goal is to estimate salary using Machine Learning and provide an interactive web application where users can enter their details and receive a salary prediction instantly.
 
-🌐 Live Demo: https://marks-prediction-app-1.streamlit.app/
+🌐 Live Demo: https://salary-prediction-app-01.streamlit.app/
 
 ---
 
@@ -93,7 +93,7 @@ Salary-Prediction-ML/
 
 ## 🌐 Live Demo
 
-https://marks-prediction-app-1.streamlit.app/
+https://salary-prediction-app-01.streamlit.app/
 
 ---
 
